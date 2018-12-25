@@ -16,6 +16,7 @@
         <module>consumers</module>
         <module>dashboardturbine</module>
         <module>configserver</module>
+        <module>config-server2</module>
         <module>config-client</module>
     </modules>
 
