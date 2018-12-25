@@ -1,0 +1,12 @@
+server:
+  port: 8100
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/xiaolu991954992/config-repo/
+          username: xiaolu991954992
+          password: xiaolu789sxl
