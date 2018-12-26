@@ -18,6 +18,7 @@
         <module>configserver</module>
         <module>config-server2</module>
         <module>config-client</module>
+        <module>gateway-service-zuul</module>
     </modules>
 
     <name>springcloud-demo1</name>
