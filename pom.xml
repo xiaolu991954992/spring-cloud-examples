@@ -20,6 +20,7 @@
         <module>config-client</module>
         <module>gateway-service-zuul</module>
         <module>gateway-service-zuul-2</module>
+        <module>zipkin-server</module>
     </modules>
 
     <name>springcloud-demo1</name>
