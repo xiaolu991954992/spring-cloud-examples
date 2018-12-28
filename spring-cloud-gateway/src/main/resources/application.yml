@@ -1,0 +1,14 @@
+server:
+  port: 7005
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: cookie_route
+        uri: http://ityouknow.com
+        predicates:
+        - Cookie=ityouknow, kee.e
+#      - id: rankey_route
+#        uri: http://www.ityouknow.com
+#        predicates:
+#        - Path=/spring-cloud

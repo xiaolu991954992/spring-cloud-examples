@@ -21,6 +21,7 @@
         <module>gateway-service-zuul</module>
         <module>gateway-service-zuul-2</module>
         <module>zipkin-server</module>
+        <module>spring-cloud-gateway</module>
     </modules>
 
     <name>springcloud-demo1</name>
